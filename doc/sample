@@ -1,0 +1,20 @@
+total 32
+-rwxrwxr-x 1 sourabh sourabh  87 May 19 09:26 day1.sh
+-rwxrwxr-x 1 sourabh sourabh 108 May 20 11:07 day2.sh
+-rwxrwxr-x 1 sourabh sourabh  73 May 19 10:42 day3.sh
+-rwxrwxr-x 1 sourabh sourabh 463 May 20 10:46 got-root.sh
+-rwxrwxr-x 1 sourabh sourabh 156 May 20 11:11 readingName.sh
+-rw-rw-r-- 1 sourabh sourabh   0 May 21 21:16 sample
+-rwxrwxr-x 1 sourabh sourabh 405 May 19 12:02 sysinfo.sh
+-rw-rw-r-- 1 sourabh sourabh 429 May 21 10:09 Tools
+-rwxrwxr-x 1 sourabh sourabh 165 May 19 10:32 UpdatingSystem.sh
+total 36
+-rwxrwxr-x 1 sourabh sourabh  87 May 19 09:26 day1.sh
+-rwxrwxr-x 1 sourabh sourabh 108 May 20 11:07 day2.sh
+-rwxrwxr-x 1 sourabh sourabh  73 May 19 10:42 day3.sh
+-rwxrwxr-x 1 sourabh sourabh 463 May 20 10:46 got-root.sh
+-rwxrwxr-x 1 sourabh sourabh 156 May 20 11:11 readingName.sh
+-rw-rw-r-- 1 sourabh sourabh 516 May 21 21:16 sample
+-rwxrwxr-x 1 sourabh sourabh 405 May 19 12:02 sysinfo.sh
+-rw-rw-r-- 1 sourabh sourabh 429 May 21 10:09 Tools
+-rwxrwxr-x 1 sourabh sourabh 165 May 19 10:32 UpdatingSystem.sh
